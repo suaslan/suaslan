@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\aslan\source\repos\e ticaret platformu\Main.cpp(14,8): warning C4930: 'Urun urun0(void)': prototipli işlev çağrılmadı (değişken bir tanım mı isteniyordu?)
+LINK : fatal error LNK1168: C:\Users\aslan\source\repos\e ticaret platformu\x64\Debug\e ticaret platformu.exe yazma için açılamıyor
